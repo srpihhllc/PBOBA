@@ -7,7 +7,7 @@ A Python project integrating with Plaid’s API to support Open Banking function
 1. Clone the repo:
    ```sh
    git clone https://github.com/srpihhllc/PBOBA.git
-   cd pboba
+   cd plaidbridgeopenbankingapi
 from flask import Flask, request, jsonify
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
